@@ -5,7 +5,7 @@ Meus slides de palestras, separados por evento.
 ## 2019
 
 ### Fevereiro
-#### [Campus Party Brasil 12](https://brasil.campus-party.org/): Analisando o preconceito em algoritmos de Machine Learning  
+#### [Campus Party Brasil 12](https://brasil.campus-party.org/): [Analisando o preconceito em algoritmos de Machine Learning](https://github.com/isacmoura/talks/tree/master/Campus-Party-Brasil-12)
 A Campus Party é a maior experiência tecnológica do mundo que une jovens geeks em torno de um festival de Inovação, Criatividade, Ciências, Empreendedorismo e Universo Digital.
 
 ## 2018
