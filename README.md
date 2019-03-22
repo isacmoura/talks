@@ -1,6 +1,7 @@
 # Talks
 
-Meus slides de palestras, separados por evento.
+Meus slides de palestras, separados por evento.  
+Todo o conteúdo das palestras pode ser reutilizado, modificado e distribuído respeitando as diretrizes da licença [Apache 2.0](https://github.com/isacmoura/talks/blob/master/LICENSE)
 
 ## 2019
 
