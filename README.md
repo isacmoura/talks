@@ -5,6 +5,11 @@ Todo o conteúdo das palestras pode ser reutilizado, modificado e distribuído r
 
 ## 2019
 
+### Julho
+#### [Python Nordeste](https://2019.pythonnordeste.org/): [Misturando arte com Python: uma introdução a transferência de estilos](https://github.com/isacmoura/talks/tree/master/files/Python-Nordeste-2019)
+A Python Nordeste é o maior encontro da comunidade Python na região. É um evento itinerante que ocorre anualmente nas cidades do Nordeste. Com foco na promoção da diversidade e troca de experiências e conhecimento, o evento é voltado para indivíduos de diversas áreas e origens, sem distinção de conhecimento técnico ou atuação na área. O encontro visa difundir a linguagem entre universidades, empresas, instituições da sociedade civil e indivíduos em busca de novos conhecimentos, promovendo assim a difusão da cultura do Software Livre e o estímulo ao desenvolvimento na Região Nordeste.
+
+
 ### Maio
 #### [WTISC](https://www.quixada.ufc.br/evento/wtisc/): [Eventos, comunidade e open-source: o canivete suíço de um bom profissional](https://github.com/isacmoura/talks/tree/master/files/WTISC2019)
 O Workshop de Tecnologia da Informação do Sertão Central (WTISC) é um evento da Universidade Federal do Ceará Campus Quixadá, realizado anualmente no primeiro semestre do ano, pelo grupo PET – Sistemas de Informação. O objetivo do evento é promover e difundir o conhecimento sobre as diversas áreas de Tecnologia da Informação, de forma a fortalecer e motivar a formação técnico-profissional, por meio da troca de experiências entre profissionais e acadêmicos.
